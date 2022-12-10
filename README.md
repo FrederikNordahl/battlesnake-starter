@@ -1,6 +1,6 @@
 # Starter battlesnake in next.js
 
-Change files in /api folder.
+Change files in /pages/api folder.
 
 index.js is for snake info
 move.js is for move logic
